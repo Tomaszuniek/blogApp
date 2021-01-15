@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a01a9d84-3423-4143-897a-4988ee20d7e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mifWrm1w1Ilxu64naBqSbV3nFA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlogApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.tomek.blog.BlogApplication" />
+      <module name="projektBlog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlogApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a01a9d84-3423-4143-897a-4988ee20d7e1" name="Default Changelist" comment="" />
+      <created>1609981366568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609981366568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="357" width="626" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610488290352">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="675" y="357" width="626" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1610488290352" />
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1610492801110">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1610492801110" />
+    <state x="1143" y="385" key="#xdebugger.evaluate" timestamp="1610232269046">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1143" y="385" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1610232269046" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1610690978633">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1610690978633" />
+    <state width="1807" height="443" key="GridCell.Tab.0.bottom" timestamp="1610689677614">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.0.bottom/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="443" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1610689677614" />
+    <state width="1807" height="443" key="GridCell.Tab.0.center" timestamp="1610689677612">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.0.center/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="443" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1610689677612" />
+    <state width="1807" height="443" key="GridCell.Tab.0.left" timestamp="1610689677608">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.0.left/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="443" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1610689677608" />
+    <state width="1807" height="443" key="GridCell.Tab.0.right" timestamp="1610689677613">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.0.right/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="443" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1610689677613" />
+    <state width="1807" height="286" key="GridCell.Tab.1.bottom" timestamp="1610686815877">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.bottom/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="286" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1610686815877" />
+    <state width="1807" height="286" key="GridCell.Tab.1.center" timestamp="1610686815874">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.center/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="286" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1610686815874" />
+    <state width="1807" height="286" key="GridCell.Tab.1.left" timestamp="1610686815874">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.left/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="286" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1610686815874" />
+    <state width="1807" height="286" key="GridCell.Tab.1.right" timestamp="1610686815876">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="334" key="GridCell.Tab.1.right/67.27.1853.1053/2560.0.1920.1080@67.27.1853.1053" timestamp="1610151034088" />
+    <state width="1807" height="286" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1610686815876" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1610227176394">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1610227176394" />
+    <state x="695" y="122" width="1120" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610686808244">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="695" y="122" width="1120" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1610686808244" />
+    <state x="640" y="263" width="707" height="578" key="find.popup" timestamp="1610688480223">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="640" y="263" width="707" height="578" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1610688480223" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/tomek/blog/services/PostServiceImpl.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.2.9.RELEASE/spring-expression-5.2.9.RELEASE.jar!/org/springframework/expression/spel/ast/MethodReference.class</url>
+          <line>104</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/tomek/blog/controllers/CommentController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

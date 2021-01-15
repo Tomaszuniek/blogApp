@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Start OverSlow</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+<h2 th:text="'List of Posts'"></h2>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th style="width: 500px;">Description</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr th:each="category : ${categories}">
+            <td th:text="${category.text}">category</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>

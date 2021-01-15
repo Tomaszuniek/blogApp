@@ -1,0 +1,19 @@
+
+e
+java:S1128	"HRemove this unused import 'com.example.tomek.blog.services.PostService'.(ÔÀÈ‡8ÆÄ´Äï.
+T
+java:S1068"2Remove this unused "postRepository" private field.(¼äÈåşÿÿÿÿ8“û³Äï.
+f
+java:S11920"IDefine a constant instead of duplicating this literal "category" 3 times.(ğ‚ÑÊ8¿ÿ˜Æï.
+W
+java:S1068"5Remove this unused "commentRepository" private field.(‚ ÇÎıÿÿÿÿ8‚´¯Äï.
+h
+java:S1128"FRemove this unused import 'com.example.tomek.blog.formTypes.PostForm'.(š¹âÅùÿÿÿÿ8¢¨™Æï.
+`
+java:S3752'">Add a "method" parameter to this "@RequestMapping" annotation.(ø”İÒøÿÿÿÿ8óëúÅï.
+[
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ä¯¥¨8Ùˆ±Äï.
+[
+java:S37525">Add a "method" parameter to this "@RequestMapping" annotation.(‘ˆ¸ô8Õ ÿÅï.
+p
+java:S1128"SRemove this unused import 'com.example.tomek.blog.repositories.CategoryRepository'.(ÿéÓş8ÃğµÄï.

@@ -1,0 +1,41 @@
+
+p
+java:S1128"NRemove this unused import 'org.springframework.validation.BindingResultUtils'.(Øÿÿÿÿÿ8³Ë ï.
+b
+java:S1854J"@Remove this useless assignment to local variable "savedComment".(Òå’èıÿÿÿÿ8¾½¤Èï.
+`
+java:S3752@">Add a "method" parameter to this "@RequestMapping" annotation.(Öë®òúÿÿÿÿ8³Ë ï.
+Y
+java:S3655g"7Call "Optional#isPresent()" before accessing the value.(¸Ç£ùÿÿÿÿ8³Ë ï.
+Z
+java:S3752&">Add a "method" parameter to this "@RequestMapping" annotation.(ûã8³Ë ï.
+h
+java:S1192("FDefine a constant instead of duplicating this literal "posts" 4 times.(Ñı…ıÿÿÿÿ8³Ë ï.
+O
+java:S1199f"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8³Ë ï.
+[
+java:S37525">Add a "method" parameter to this "@RequestMapping" annotation.(ÔÑìò8³Ë ï.
+k
+java:S1128"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ8³Ë ï.
+O
+java:S1199\"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8³Ë ï.
+c
+java:S1128"ARemove this unused import 'com.example.tomek.blog.model.Comment'.(‘Ã†ñùÿÿÿÿ8¾½¤Èï.
+t
+java:S1128"RRemove this unused import 'com.example.tomek.blog.repositories.CommentRepository'.(ùñÀşÿÿÿÿ8Ã‘ıÆï.
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8µ€‚Èï.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8³Ë ï.
+S
+java:S1481J"1Remove this unused "savedComment" local variable.(Òå’èıÿÿÿÿ8¾½¤Èï.
+n
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœÿÿÿÿÿ8ÊÑµÇï.
+[
+java:S3752P">Add a "method" parameter to this "@RequestMapping" annotation.(•«·–8³Ë ï.
+`
+java:S3752H">Add a "method" parameter to this "@RequestMapping" annotation.(©İı˜øÿÿÿÿ8¾½¤Èï.
+O
+java:S1199R"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8³Ë ï.
+[
+java:S3752-">Add a "method" parameter to this "@RequestMapping" annotation.(ãºÛª8³Ë ï.

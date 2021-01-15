@@ -1,0 +1,17 @@
+
+v
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ùù¸8ÆÆï.
+O
+java:S36557"3Call "java.isPresent()" before accessing the value.(öë«Q8Ğ„Õï.
+O
+java:S36558"2Call "web.isPresent()" before accessing the value.(ƒüšÂ8Ğ„Õï.
+O
+java:S3655?"2Call "php.isPresent()" before accessing the value.(™ÊŞ8Ğ„Õï.
+Z
+java:S18543"8Remove this useless assignment to local variable "good".(Š§èïÿÿÿÿÿ8Ğ„Õï.
+^
+java:S18542"<Remove this useless assignment to local variable "services".(Üù„×øÿÿÿÿ8Ğ„Õï.
+O
+java:S14812"-Remove this unused "services" local variable.(Üù„×øÿÿÿÿ8Ğ„Õï.
+K
+java:S14813")Remove this unused "good" local variable.(Š§èïÿÿÿÿÿ8Ğ„Õï.

@@ -1,0 +1,30 @@
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>List of Persons</title>
+
+</head>
+<body>
+<a href="/posts">Return</a>
+<h2 th:text="'This is post detail'"></h2>
+
+<p th:text="${'The post difficulty: ' + post?.difficulty}"></p>
+<p th:each="category : ${post?.categories}" th:text="${'Categories of post: ' + category?.text}"></p>
+<p th:text="${post?.text}"></p>
+<p th:text="${'Author: ' + post?.author}"></p>
+<p th:text="${'Short description: ' + post?.description}"></p>
+<p>Comments: </p>
+<div>
+    <p th:each="comment : ${post?.comments}" th:text="${comment?.text}"></p>
+</div>
+<div>
+    <img src="../../static/images/tiger.jpg"
+         th:src="@{'/post/' + ${post.id} + '/postimage'}"
+         width="400" height="400">
+</div>
+<div class="col-md-1">
+    <a class="btn btn-default" href="#" th:href="@{'/post/' + ${post.id} + '/comment/new'}" role="button">Add comment</a>
+</div>
+
+</body>
+</html>

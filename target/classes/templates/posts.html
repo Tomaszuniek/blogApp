@@ -1,0 +1,41 @@
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Start OverSlow</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+<h2 th:text="'List of Posts'"></h2>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th style="width: 500px;">Description</th>
+        <th style="width: 500px;">Categories</th>
+        <th style="width: 500px;">Difficulty</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="post : ${posts}">
+        <td><a th:href="@{post/show/{id}(id=${post.id})}" th:text="${post?.description}"></a></td>
+        <td>
+            <table>
+                <tr>
+                    <td th:each="category : ${post?.categories}" th:text="${category?.text}">categories</td>
+                </tr>
+            </table>
+        </td>
+        <td th:text="${post?.difficulty}">easy</td>
+    </tr>
+    </tbody>
+    <div th:each="category, iter : ${allCategories}">
+        <a th:href="@{posts/category/{id}(id=${category.id})}" th:text="${category.text}">SHow category  posts</a>
+    </div>
+</table>
+<a href="posts/new">Add new post</a>
+</body>
+</html>

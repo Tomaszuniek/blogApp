@@ -1,0 +1,9 @@
+
+X
+java:S1068"6Remove this unused "categoryRepository" private field.(²ÁçÊüÿÿÿÿ8ÓåƒÙï.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÒØÍú8¨äÙï.
+]
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(§‚–Ç8ûûÙï.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8®ª‰Ùï.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(‡®®“8¨äÙï.
